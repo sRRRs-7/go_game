@@ -1,0 +1,11 @@
+{
+    "player": "😋",
+    "enemy": "👻",
+    "wall": "🌱",
+    "dot": "🧀",
+    "pill": "🍹",
+    "death": "💀",
+    "space": "  ",
+    "use_emoji": true,
+    "pill_duration_secs": 10
+}
